@@ -1,0 +1,16 @@
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\bin\Debug\net5.0\Mi primer programa.exe
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\bin\Debug\net5.0\Mi primer programa.deps.json
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\bin\Debug\net5.0\Mi primer programa.runtimeconfig.json
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\bin\Debug\net5.0\Mi primer programa.runtimeconfig.dev.json
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\bin\Debug\net5.0\Mi primer programa.dll
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\bin\Debug\net5.0\ref\Mi primer programa.dll
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\bin\Debug\net5.0\Mi primer programa.pdb
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.csprojAssemblyReference.cache
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.AssemblyInfoInputs.cache
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.AssemblyInfo.cs
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.csproj.CoreCompileInputs.cache
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.dll
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\obj\Debug\net5.0\ref\Mi primer programa.dll
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.pdb
+C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.genruntimeconfig.cache
