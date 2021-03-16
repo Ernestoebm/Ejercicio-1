@@ -14,3 +14,19 @@ C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\obj\Debug\net5.0\
 C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\obj\Debug\net5.0\ref\Mi primer programa.dll
 C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.pdb
 C:\Users\netob\OneDrive\Escritorio\Ejercio1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.genruntimeconfig.cache
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\bin\Debug\net5.0\Mi primer programa.exe
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\bin\Debug\net5.0\Mi primer programa.deps.json
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\bin\Debug\net5.0\Mi primer programa.runtimeconfig.json
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\bin\Debug\net5.0\Mi primer programa.runtimeconfig.dev.json
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\bin\Debug\net5.0\Mi primer programa.dll
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\bin\Debug\net5.0\ref\Mi primer programa.dll
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\bin\Debug\net5.0\Mi primer programa.pdb
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.csprojAssemblyReference.cache
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.AssemblyInfoInputs.cache
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.AssemblyInfo.cs
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.csproj.CoreCompileInputs.cache
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.dll
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\obj\Debug\net5.0\ref\Mi primer programa.dll
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.pdb
+D:\Salvador Juarez\POO\Optativas\Ejercicio-1\Mi primer programa\obj\Debug\net5.0\Mi primer programa.genruntimeconfig.cache

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\netob\\OneDrive\\Escritorio\\Ejercio1\\Mi primer programa\\Mi primer programa.csproj": {}
+    "D:\\Salvador Juarez\\POO\\Optativas\\Ejercicio-1\\Mi primer programa\\Mi primer programa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\netob\\OneDrive\\Escritorio\\Ejercio1\\Mi primer programa\\Mi primer programa.csproj": {
+    "D:\\Salvador Juarez\\POO\\Optativas\\Ejercicio-1\\Mi primer programa\\Mi primer programa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\netob\\OneDrive\\Escritorio\\Ejercio1\\Mi primer programa\\Mi primer programa.csproj",
+        "projectUniqueName": "D:\\Salvador Juarez\\POO\\Optativas\\Ejercicio-1\\Mi primer programa\\Mi primer programa.csproj",
         "projectName": "Mi primer programa",
-        "projectPath": "C:\\Users\\netob\\OneDrive\\Escritorio\\Ejercio1\\Mi primer programa\\Mi primer programa.csproj",
-        "packagesPath": "C:\\Users\\netob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\netob\\OneDrive\\Escritorio\\Ejercio1\\Mi primer programa\\obj\\",
+        "projectPath": "D:\\Salvador Juarez\\POO\\Optativas\\Ejercicio-1\\Mi primer programa\\Mi primer programa.csproj",
+        "packagesPath": "C:\\Users\\Salvador Juarez\\.nuget\\packages\\",
+        "outputPath": "D:\\Salvador Juarez\\POO\\Optativas\\Ejercicio-1\\Mi primer programa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\netob\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Salvador Juarez\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
