@@ -14,10 +14,10 @@ namespace Example1
            Console.WriteLine("Enter a value for b:");
            b = Int32.Parse(Console.ReadLine());
 
-           Console.WriteLine($"Adding {a} + {b} equals {AddNumbers(a,b)}");
+           Console.WriteLine($"{a} - {b} equals {SubstractNumbers(a,b)}");
         }
 
-        public static int AddNumbers(int a, int b)
+        public static int SubstractNumbers(int a, int b)
         {
             return a - b;
         }
